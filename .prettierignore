@@ -1,0 +1,11 @@
+# Add files here to ignore them from prettier formatting
+
+/dist
+/coverage
+node_modules
+package-lock.json
+.gitignore
+.prettierignore
+yarn.lock
+yarn-error.log
+pnpm-lock.yaml
